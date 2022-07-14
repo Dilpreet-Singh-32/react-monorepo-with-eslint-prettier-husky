@@ -1,0 +1,13 @@
+{
+  "name": "@protocall/tsconfig",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "files": [
+    "base.json"
+  ],
+  "scripts": {
+    "lint": "echo \"TS Config Linting\"",
+    "lint-fix": "echo \"TS Config Lint Fixing\""
+  }
+}
