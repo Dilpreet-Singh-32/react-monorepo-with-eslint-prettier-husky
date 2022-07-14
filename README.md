@@ -1,0 +1,1 @@
+# react-monorepo-with-eslint-prettier-husky
